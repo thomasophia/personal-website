@@ -9,6 +9,7 @@ module.exports = {
         rose: "#F2A8B7",
         terracotta: "#CA7B55",
         palm: "#404B35",
+        earth: "#D9CBBA"
       },
       fontFamily: {
         main: ["Merriweather", "serif"],

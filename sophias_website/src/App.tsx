@@ -4,7 +4,7 @@ import styles from "./style";
 
 const App = () => {
   return (
-    <div className='bg-gradient w-full h-[1000px] overflow-hidden'>
+    <div className='bg-earth w-full overflow-hidden'>
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Navbar/>
