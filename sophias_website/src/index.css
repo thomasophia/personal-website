@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+* {
+  scroll-behavior: smooth;
+}
+
+.bg-gradient {
+  background: linear-gradient(180deg, #E0D8CE 0%, #F3CED6 51.04%, #969C91 100%);
+}
+
+.terracotta-gradient {
+  background: linear-gradient(134.23deg, #D69F84 17.29%, rgba(239, 154, 112, 0) 89.4%);
+}
+
+.palm-gradient {
+  background: linear-gradient(206.33deg, #969C91 15.01%, rgba(150, 156, 145, 0) 87%);
+}
+
+
+
+
