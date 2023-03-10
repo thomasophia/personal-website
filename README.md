@@ -1,4 +1,4 @@
-# personal Website
+# Personal Website
 
 exercise project - work in progress
 
